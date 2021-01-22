@@ -26,6 +26,14 @@ body {
   margin: 20px 0;
 }
 
+.name input, #movie{
+  outline: none;
+}
+
+.pick{
+  margin: 10px 0;
+}
+
 .movie-container select {
   background-color: #fff;
   border: 0;
